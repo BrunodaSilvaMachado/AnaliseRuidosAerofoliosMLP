@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Virtualenv
+.venv/
+env/
+venv/
+ENV/
+*.env
+*.venv
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Modelos treinados (opcional)
+*.h5
+*.hdf5
+*.pkl
+*.joblib
