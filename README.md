@@ -12,7 +12,7 @@ Este projeto aplica um **Multi-Layer Perceptron (MLP)** para modelar o ruído em
 ## 🚀 Como Reproduzir
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/projeto-mlp-aerofolio.git
+   git clone https://github.com/BrunodaSilvaMachado/AnaliseRuidosAerofoliosMLP.git
    cd projeto-mlp-aerofolio
 
 ## Modelo
