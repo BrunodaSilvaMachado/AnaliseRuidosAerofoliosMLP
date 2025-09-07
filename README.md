@@ -18,12 +18,12 @@ Este projeto aplica um **Multi-Layer Perceptron (MLP)** para modelar o ruído em
 ## Modelo
 
 O modelo desenvolvido nesse trabalho possui as seguintes configurações:
-• 1 camada intermediária com 10 neurônios;
-• Função de ativação sigmoide;
-• Otimizador Adam com taxa de aprendizado com decaimento exponencial;
-• Função de perda Erro Quadrático Médio (MSE);
-• Mini-batch com 32 amostras;
-• Treinamento realizado em 1000 épocas.
+- 1 camada intermediária com 10 neurônios;
+- Função de ativação sigmoide;
+- Otimizador Adam com taxa de aprendizado com decaimento exponencial;
+- Função de perda Erro Quadrático Médio (MSE);
+- Mini-batch com 32 amostras;
+- Treinamento realizado em 1000 épocas.
 
 ## Resultados
 
